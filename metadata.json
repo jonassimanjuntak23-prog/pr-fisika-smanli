@@ -1,0 +1,6 @@
+{
+  "name": "Fisika Interaktif - Listrik Arus Searah (PR SMAN 5)",
+  "description": "Aplikasi pembelajaran digital interaktif Fisika SMA Kelas 12: Listrik Arus Searah. Dilengkapi salinan soal & stimulus lengkap, pembahasan mendalam berstandar buku teks, dan narator Text-to-Speech (TTS) Bahasa Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
